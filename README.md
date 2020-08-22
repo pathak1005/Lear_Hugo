@@ -1,2 +1,2 @@
-# Lear_Hugo
+# Learn_Hugo
 Learn Hugo
